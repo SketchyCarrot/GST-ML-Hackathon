@@ -1,0 +1,1 @@
+trained few models under the gst ml hackathon conducted by govt of india , the best model was able to achieve 98% accuracy and F1 score of 0.9 , Trained on almost 9,00,000 rows of data with original dataframe consisting of 21 cols 
